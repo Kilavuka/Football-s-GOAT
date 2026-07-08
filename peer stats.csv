@@ -1,0 +1,182 @@
+player,season,club,competition,goals,assists,appearances,minutes,dribbles_completed,key_passes
+Lionel Messi,2004-05,FC Barcelona,All Competitions,1,0,9,234,6,
+Lionel Messi,2004-05,FC Barcelona,League,1,0,7,71,0,
+Lionel Messi,2004-05,FC Barcelona,Champions League,0,0,1,90,6,2
+Cristiano Ronaldo,2004-05,Manchester United,All Competitions,9,8,50,3719,146,
+Cristiano Ronaldo,2004-05,Manchester United,League,5,4,33,2429,109,
+Cristiano Ronaldo,2004-05,Manchester United,Champions League,0,1,7,501,37,7
+Lionel Messi,2005-06,FC Barcelona,All Competitions,8,3,25,1419,46,
+Lionel Messi,2005-06,FC Barcelona,League,6,2,17,917,35,
+Lionel Messi,2005-06,FC Barcelona,Champions League,1,1,6,322,11,4
+Cristiano Ronaldo,2005-06,Manchester United,All Competitions,12,8,47,3413,133,
+Cristiano Ronaldo,2005-06,Manchester United,League,9,6,33,2286,107,
+Cristiano Ronaldo,2005-06,Manchester United,Champions League,0,0,6,506,26,5
+Lionel Messi,2006-07,FC Barcelona,All Competitions,17,3,36,2765,121,
+Lionel Messi,2006-07,FC Barcelona,League,14,2,26,2004,112,
+Lionel Messi,2006-07,FC Barcelona,Champions League,1,0,5,385,9,6
+Cristiano Ronaldo,2006-07,Manchester United,All Competitions,23,14,53,4398,132,
+Cristiano Ronaldo,2006-07,Manchester United,League,17,8,34,2789,85,
+Cristiano Ronaldo,2006-07,Manchester United,Champions League,3,5,11,959,47,11
+Lionel Messi,2007-08,FC Barcelona,All Competitions,16,13,40,2959,168,
+Lionel Messi,2007-08,FC Barcelona,League,10,12,28,2006,125,
+Lionel Messi,2007-08,FC Barcelona,Champions League,6,1,9,728,43,17
+Cristiano Ronaldo,2007-08,Manchester United,All Competitions,42,7,49,4155,126,
+Cristiano Ronaldo,2007-08,Manchester United,League,31,6,34,2749,90,
+Cristiano Ronaldo,2007-08,Manchester United,Champions League,8,1,11,1016,36,19
+Lionel Messi,2008-09,FC Barcelona,All Competitions,38,17,51,3901,143,
+Lionel Messi,2008-09,FC Barcelona,League,23,11,31,2517,106,
+Lionel Messi,2008-09,FC Barcelona,Champions League,9,5,12,927,37,25
+Cristiano Ronaldo,2008-09,Manchester United,All Competitions,26,9,53,4322,86,
+Cristiano Ronaldo,2008-09,Manchester United,League,18,6,33,2748,58,
+Cristiano Ronaldo,2008-09,Manchester United,Champions League,4,2,12,1010,28,15
+Lionel Messi,2009-10,FC Barcelona,All Competitions,47,11,53,4406,206,85
+Lionel Messi,2009-10,FC Barcelona,League,34,10,35,2841,145,65
+Lionel Messi,2009-10,FC Barcelona,Champions League,8,0,11,987,61,20
+Cristiano Ronaldo,2009-10,Real Madrid,All Competitions,33,8,35,2921,105,84
+Cristiano Ronaldo,2009-10,Real Madrid,League,26,7,29,2471,91,75
+Cristiano Ronaldo,2009-10,Real Madrid,Champions League,7,1,6,450,14,9
+Lionel Messi,2010-11,FC Barcelona,All Competitions,53,23,55,4574,265,91
+Lionel Messi,2010-11,FC Barcelona,League,31,18,33,2859,186,67
+Lionel Messi,2010-11,FC Barcelona,Champions League,12,3,13,1046,79,24
+Cristiano Ronaldo,2010-11,Real Madrid,All Competitions,53,16,54,4607,107,88
+Cristiano Ronaldo,2010-11,Real Madrid,League,40,11,34,2902,75,67
+Cristiano Ronaldo,2010-11,Real Madrid,Champions League,6,4,12,1021,32,21
+Lionel Messi,2011-12,FC Barcelona,All Competitions,73,30,60,5221,222,125
+Lionel Messi,2011-12,FC Barcelona,League,50,16,37,3268,176,92
+Lionel Messi,2011-12,FC Barcelona,Champions League,14,6,11,990,46,33
+Cristiano Ronaldo,2011-12,Real Madrid,All Competitions,60,15,55,4902,102,84
+Cristiano Ronaldo,2011-12,Real Madrid,League,46,12,38,3354,73,60
+Cristiano Ronaldo,2011-12,Real Madrid,Champions League,10,3,10,930,29,24
+Lionel Messi,2012-13,FC Barcelona,All Competitions,60,15,50,4067,143,63
+Lionel Messi,2012-13,FC Barcelona,League,46,12,32,2624,122,46
+Lionel Messi,2012-13,FC Barcelona,Champions League,8,2,11,821,21,17
+Cristiano Ronaldo,2012-13,Real Madrid,All Competitions,55,12,55,4634,81,86
+Cristiano Ronaldo,2012-13,Real Madrid,League,34,10,34,2719,56,63
+Cristiano Ronaldo,2012-13,Real Madrid,Champions League,12,1,12,1080,25,23
+Lionel Messi,2013-14,FC Barcelona,All Competitions,41,14,46,3743,169,91
+Lionel Messi,2013-14,FC Barcelona,League,28,11,31,2502,144,75
+Lionel Messi,2013-14,FC Barcelona,Champions League,8,0,7,630,25,16
+Cristiano Ronaldo,2013-14,Real Madrid,All Competitions,51,14,47,4030,92,70
+Cristiano Ronaldo,2013-14,Real Madrid,League,31,9,30,2540,67,48
+Cristiano Ronaldo,2013-14,Real Madrid,Champions League,17,4,11,993,25,22
+Lionel Messi,2014-15,FC Barcelona,All Competitions,58,27,57,5061,266,131
+Lionel Messi,2014-15,FC Barcelona,League,43,18,38,3375,174,95
+Lionel Messi,2014-15,FC Barcelona,Champions League,10,5,13,1146,92,36
+Cristiano Ronaldo,2014-15,Real Madrid,All Competitions,61,21,54,4641,79,92
+Cristiano Ronaldo,2014-15,Real Madrid,League,48,16,35,3099,54,76
+Cristiano Ronaldo,2014-15,Real Madrid,Champions League,10,3,12,1065,25,16
+Lionel Messi,2015-16,FC Barcelona,All Competitions,41,23,49,4229,151,87
+Lionel Messi,2015-16,FC Barcelona,League,26,16,33,2729,117,77
+Lionel Messi,2015-16,FC Barcelona,Champions League,6,1,7,630,34,10
+Cristiano Ronaldo,2015-16,Real Madrid,All Competitions,51,15,48,4293,60,74
+Cristiano Ronaldo,2015-16,Real Madrid,League,35,11,36,3184,51,51
+Cristiano Ronaldo,2015-16,Real Madrid,Champions League,16,4,12,1109,9,23
+Lionel Messi,2016-17,FC Barcelona,All Competitions,54,16,52,4452,154,98
+Lionel Messi,2016-17,FC Barcelona,League,37,9,34,2832,126,79
+Lionel Messi,2016-17,FC Barcelona,Champions League,11,2,9,810,28,19
+Cristiano Ronaldo,2016-17,Real Madrid,All Competitions,42,11,46,4126,40,51
+Cristiano Ronaldo,2016-17,Real Madrid,League,25,6,29,2545,25,31
+Cristiano Ronaldo,2016-17,Real Madrid,Champions League,12,5,13,1200,15,20
+Lionel Messi,2017-18,FC Barcelona,All Competitions,45,18,54,4471,222,104
+Lionel Messi,2017-18,FC Barcelona,League,34,12,36,2998,185,87
+Lionel Messi,2017-18,FC Barcelona,Champions League,6,2,10,784,37,17
+Cristiano Ronaldo,2017-18,Real Madrid,All Competitions,44,8,44,3670,53,53
+Cristiano Ronaldo,2017-18,Real Madrid,League,26,5,27,2289,31,38
+Cristiano Ronaldo,2017-18,Real Madrid,Champions League,15,3,13,1170,22,15
+Lionel Messi,2018-19,FC Barcelona,All Competitions,51,19,50,4024,169,119
+Lionel Messi,2018-19,FC Barcelona,League,36,13,34,2711,134,92
+Lionel Messi,2018-19,FC Barcelona,Champions League,12,3,10,837,35,27
+Cristiano Ronaldo,2018-19,Juventus,All Competitions,28,10,43,3646,63,65
+Cristiano Ronaldo,2018-19,Juventus,League,21,8,31,2689,45,48
+Cristiano Ronaldo,2018-19,Juventus,Champions League,6,2,9,749,18,17
+Lionel Messi,2019-20,FC Barcelona,All Competitions,31,25,44,3812,239,106
+Lionel Messi,2019-20,FC Barcelona,League,25,21,33,2881,182,89
+Lionel Messi,2019-20,FC Barcelona,Champions League,3,3,8,661,57,17
+Cristiano Ronaldo,2019-20,Juventus,All Competitions,37,5,46,4080,67,56
+Cristiano Ronaldo,2019-20,Juventus,League,31,5,33,2918,53,51
+Cristiano Ronaldo,2019-20,Juventus,Champions League,4,0,8,712,14,5
+Lionel Messi,2020-21,FC Barcelona,All Competitions,38,12,47,4192,188,100
+Lionel Messi,2020-21,FC Barcelona,League,30,9,35,3022,159,77
+Lionel Messi,2020-21,FC Barcelona,Champions League,5,2,6,540,29,23
+Cristiano Ronaldo,2020-21,Juventus,All Competitions,36,5,44,3751,68,45
+Cristiano Ronaldo,2020-21,Juventus,League,29,3,33,2803,58,36
+Cristiano Ronaldo,2020-21,Juventus,Champions League,4,2,6,570,10,9
+Lionel Messi,2021-22,Paris Saint-Germain,All Competitions,11,14,34,2871,87,76
+Lionel Messi,2021-22,Paris Saint-Germain,League,6,14,26,2151,64,63
+Lionel Messi,2021-22,Paris Saint-Germain,Champions League,5,0,7,630,23,13
+Cristiano Ronaldo,2021-22,Manchester United,All Competitions,24,3,39,3222,30,36
+Cristiano Ronaldo,2021-22,Manchester United,League,18,3,31,2490,21,27
+Cristiano Ronaldo,2021-22,Manchester United,Champions League,6,0,7,612,9,9
+Lionel Messi,2022-23,Paris Saint-Germain,All Competitions,21,20,41,3630,116,112
+Lionel Messi,2022-23,Paris Saint-Germain,League,16,16,32,2837,102,93
+Lionel Messi,2022-23,Paris Saint-Germain,Champions League,4,4,7,613,14,19
+Cristiano Ronaldo,2022-23,Manchester United/Al Nassr,All Competitions,17,4,35,2752,27,27
+Cristiano Ronaldo,2022-23,Manchester United/Al Nassr,League,15,2,26,1954,27,27
+Cristiano Ronaldo,2022-23,Manchester United/Al Nassr,Champions League,0,0,0,0,0,0
+Lionel Messi,2023-24,Inter Miami,All Competitions,25,16,29,2321,62,34
+Lionel Messi,2023-24,Inter Miami,League,13,11,18,1407,55,29
+Lionel Messi,2023-24,Inter Miami,Champions League,2,2,3,230,7,5
+Cristiano Ronaldo,2023-24,Al Nassr,All Competitions,50,13,51,4477,17,41
+Cristiano Ronaldo,2023-24,Al Nassr,League,35,11,31,2648,14,33
+Cristiano Ronaldo,2023-24,Al Nassr,Champions League,6,2,9,828,3,8
+Lionel Messi,2024-25,Inter Miami,All Competitions,33,9,39,3202,98,62
+Lionel Messi,2024-25,Inter Miami,League,26,8,25,2016,76,49
+Lionel Messi,2024-25,Inter Miami,Champions League,5,0,7,556,22,13
+Cristiano Ronaldo,2024-25,Al Nassr,All Competitions,35,4,41,3563,25,49
+Cristiano Ronaldo,2024-25,Al Nassr,League,25,3,30,2625,16,38
+Cristiano Ronaldo,2024-25,Al Nassr,Champions League,8,0,8,677,9,11
+Erling Haaland,2017,Molde,All Competitions,2,0,20,,,
+Erling Haaland,2018,Molde,All Competitions,16,0,30,,,
+Erling Haaland,2019,Red Bull Salzburg,All Competitions,28,0,22,,,8
+Erling Haaland,2019-20,Borussia Dortmund,All Competitions,16,0,18,,,
+Erling Haaland,2020-21,Borussia Dortmund,All Competitions,41,10,41,,,10
+Erling Haaland,2020-21,Borussia Dortmund,League,27,6,28,,,
+Erling Haaland,2020-21,Borussia Dortmund,Champions League,10,0,8,,,
+Erling Haaland,2021-22,Borussia Dortmund,All Competitions,29,8,30,,,3
+Erling Haaland,2021-22,Borussia Dortmund,League,22,7,24,,,
+Erling Haaland,2021-22,Borussia Dortmund,Champions League,3,0,5,,,
+Erling Haaland,2022-23,Manchester City,All Competitions,52,9,53,,,
+Erling Haaland,2022-23,Manchester City,League,36,8,35,,,
+Erling Haaland,2022-23,Manchester City,Champions League,12,0,11,,,
+Erling Haaland,2023-24,Manchester City,All Competitions,38,8,47,,,
+Erling Haaland,2024-25,Manchester City,All Competitions,31,3,31,,,
+Erling Haaland,2025-26,Manchester City,League,27,8,35,2960,,
+Kylian Mbappe,2015-16,Monaco,All Competitions,1,0,,,,
+Kylian Mbappe,2016-17,Monaco,All Competitions,26,14,44,,,
+Kylian Mbappe,2016-17,Monaco,League,15,8,29,,,
+Kylian Mbappe,2017-18,Paris Saint-Germain,All Competitions,26,14,44,,,
+Kylian Mbappe,2017-18,Paris Saint-Germain,League,13,8,27,,,
+Kylian Mbappe,2018-19,Paris Saint-Germain,All Competitions,39,11,43,,,
+Kylian Mbappe,2018-19,Paris Saint-Germain,League,33,7,29,,,
+Kylian Mbappe,2019-20,Paris Saint-Germain,All Competitions,30,11,33,,,
+Kylian Mbappe,2019-20,Paris Saint-Germain,League,18,7,24,,,
+Kylian Mbappe,2020-21,Paris Saint-Germain,All Competitions,42,14,47,,,
+Kylian Mbappe,2020-21,Paris Saint-Germain,League,27,7,31,,,
+Kylian Mbappe,2021-22,Paris Saint-Germain,All Competitions,39,26,46,,,
+Kylian Mbappe,2021-22,Paris Saint-Germain,League,28,17,35,,,
+Kylian Mbappe,2022-23,Paris Saint-Germain,All Competitions,41,8,43,,,
+Kylian Mbappe,2022-23,Paris Saint-Germain,League,29,6,34,,,
+Kylian Mbappe,2023-24,Paris Saint-Germain,All Competitions,44,12,48,,,
+Kylian Mbappe,2023-24,Paris Saint-Germain,League,27,7,29,,,
+Kylian Mbappe,2024-25,Real Madrid,All Competitions,43,5,56,,,
+Kylian Mbappe,2024-25,Real Madrid,League,31,3,34,,,
+Kylian Mbappe,2025-26,Real Madrid,League,25,5,31,2604,,
+Kylian Mbappe,2016-17,Monaco,Champions League,6,0,9,,,
+Kylian Mbappe,2017-18,Paris Saint-Germain,Champions League,4,0,7,,,
+Kylian Mbappe,2018-19,Paris Saint-Germain,Champions League,6,3,8,,,
+Kylian Mbappe,2019-20,Paris Saint-Germain,Champions League,5,2,7,,,
+Kylian Mbappe,2020-21,Paris Saint-Germain,Champions League,9,2,11,,,
+Kylian Mbappe,2021-22,Paris Saint-Germain,Champions League,5,2,8,,,
+Kylian Mbappe,2022-23,Paris Saint-Germain,Champions League,8,2,8,,,
+Kylian Mbappe,2023-24,Paris Saint-Germain,Champions League,8,3,12,,,
+Kylian Mbappe,2024-25,Real Madrid,Champions League,8,1,12,,,
+Kylian Mbappe,2025-26,Real Madrid,Champions League,15,0,11,,,
+Erling Haaland,2019,Red Bull Salzburg,League,16,0,13,,,
+Erling Haaland,2019,Red Bull Salzburg,Champions League,8,0,6,,,
+Erling Haaland,2022-23,Manchester City,League,36,8,35,,,
+Erling Haaland,2022-23,Manchester City,Champions League,12,0,11,,,
+Erling Haaland,2023-24,Manchester City,League,27,5,31,,,
+Erling Haaland,2023-24,Manchester City,Champions League,8,1,9,,,
+Erling Haaland,2024-25,Manchester City,League,22,3,26,,,
+Erling Haaland,2024-25,Manchester City,Champions League,8,0,9,,,
+Erling Haaland,2025-26,Manchester City,Champions League,7,0,7,,,
