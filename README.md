@@ -117,7 +117,7 @@ Players were evaluated using:
 
 ---
 
-# 🛠 Technologies Used
+# 🛠 Libraries Used
 
 * Python
 * pandas
