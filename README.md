@@ -22,11 +22,11 @@ A statistical comparison of four of football's greatest forwards using Python, h
 
 |               Radar Chart               |                Goals vs Assists               |
 | :-------------------------------------: | :-------------------------------------------: |
-| ![Radar Chart](figures/radar_chart.png) | ![Scatter Plot](figures/goals_vs_assists.png) |
+| ![Radar Chart](figures/radar_charts.png) | ![Scatter Plot](figures/Scatter_Plot.png) |
 
 |               Four Player Comparison              |              Composite Rankings             |
 | :-----------------------------------------------: | :-----------------------------------------: |
-| ![Comparison](figures/four_player_comparison.png) | ![Rankings](figures/composite_rankings.png) |
+| ![Comparison](figures/trend_lines_all_four.png) | ![Rankings](figures/Final_Composite_Rankings.png) |
 
 ---
 
