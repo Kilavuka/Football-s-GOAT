@@ -16,20 +16,6 @@ A statistical comparison of four of football's greatest forwards using Python, h
 
 ---
 
-## 📸 Visual Highlights
-
-> *Replace the image paths below with your exported PNG files.*
-
-|               Radar Chart               |                Goals vs Assists               |
-| :-------------------------------------: | :-------------------------------------------: |
-| ![Radar Chart](figures/radar_charts.png) | ![Scatter Plot](figures/Scatter_Plot.png) |
-
-|               Four Player Comparison              |              Composite Rankings             |
-| :-----------------------------------------------: | :-----------------------------------------: |
-| ![Comparison](figures/trend_lines_all_four.png) | ![Rankings](figures/Final_Composite_Rankings.png) |
-
----
-
 # 📖 Overview
 
 Football's greatest player debate is often driven by opinions, trophies, or raw goal totals.
