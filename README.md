@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 A statistical comparison of four of football's greatest forwards using Python, hypothesis testing, and exploratory data analysis.
 
